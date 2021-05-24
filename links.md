@@ -1,0 +1,1 @@
+https://www.elastic.co/de/blog/operational-analytics-with-elasticsearch-at-elasticon-2017-part-2

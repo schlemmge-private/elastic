@@ -1,0 +1,57 @@
+[
+  {
+    "version": "v1",
+    "data": {
+      "id": "geo.geojson",
+      "label": "new dataset",
+      "color": [
+        143,
+        47,
+        191
+      ],
+      "allData": [
+        [
+          {
+            "type": "Feature",
+            "geometry": {
+              "type": "LineString",
+              "coordinates": [
+                [
+                  0.1,
+                  0.1
+                ],
+                [
+                  0.1,
+                  -0.1
+                ],
+                [
+                  -0.1,
+                  -0.1
+                ],
+                [
+                  -0.1,
+                  0.1
+                ],
+                [
+                  0.1,
+                  0.1
+                ]
+              ]
+            },
+            "properties": {
+              "index": 0
+            }
+          }
+        ]
+      ],
+      "fields": [
+        {
+          "name": "_geojson",
+          "type": "geojson",
+          "format": "",
+          "analyzerType": "GEOMETRY"
+        }
+      ]
+    }
+  }
+]
